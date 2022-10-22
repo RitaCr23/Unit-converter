@@ -32,5 +32,3 @@ The main goal of the project was to practise all the concepts learned on the cou
 - Created a variable for each measurement
 - Created a function to convert each measurement 
 - Displayed each result on the page
-
-
